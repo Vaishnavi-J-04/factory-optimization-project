@@ -1,12 +1,11 @@
-# 🍬 Nassau Candy Distributor — Factory Reallocation & Shipping Optimization System
+# Nassau Candy Distributor — Factory Reallocation & Shipping Optimization System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link.streamlit.app)
 
 > An intelligent decision-making system that predicts shipping outcomes, recommends factory reassignments, and optimizes logistics efficiency for Nassau Candy Distributor.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Nassau Candy Distributor currently assigns products to factories using static rules, leading to suboptimal shipping distances, high lead times for certain regions, and margin erosion due to logistics inefficiencies.
 
@@ -39,7 +38,7 @@ factory-optimization-project/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone the Repository
 ```bash
@@ -73,7 +72,7 @@ jupyter notebook eda.ipynb
 
 ---
 
-## 🧠 ML Models Used
+## ML Models Used
 
 | Model | RMSE | MAE | R² |
 |-------|------|-----|----|
@@ -85,19 +84,19 @@ jupyter notebook eda.ipynb
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 | Tab | Feature |
 |-----|---------|
-| 📊 Overview | KPIs, model evaluation, route clustering, filtered stats |
-| 🏭 Factory Optimizer | ML-predicted lead time per factory with speed/profit scoring |
-| 🔄 What-If Simulator | Compare current vs proposed factory assignments |
-| 🎯 Recommendations | Ranked reassignment suggestions with confidence scores |
-| ⚠️ Risk & Impact | Slow route alerts, low-margin warnings, treemap |
+|  Overview | KPIs, model evaluation, route clustering, filtered stats |
+|  Factory Optimizer | ML-predicted lead time per factory with speed/profit scoring |
+|  What-If Simulator | Compare current vs proposed factory assignments |
+|  Recommendations | Ranked reassignment suggestions with confidence scores |
+|  Risk & Impact | Slow route alerts, low-margin warnings, treemap |
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -111,7 +110,7 @@ jupyter notebook eda.ipynb
 
 ---
 
-## 📈 Key Results
+##  Key Results
 
 - **88.7% prediction accuracy** (R²) for lead time forecasting
 - **4 factory clusters** identified by speed and profitability
@@ -119,15 +118,3 @@ jupyter notebook eda.ipynb
 - Optimization slider balances speed vs profit for personalized recommendations
 
 ---
-
-## 👩‍💻 Author
-
-**Vaishnavi J**  
-Data Science Intern  
-[GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-
----
-
-## 📄 License
-
-This project is submitted as part of a Data Science Internship program.
